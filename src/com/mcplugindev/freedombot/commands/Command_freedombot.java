@@ -77,7 +77,7 @@ public class Command_freedombot implements CommandExecutor {
                             }
                         case "removeme":
                             BotUtil.removeAdmin(sender);
-                            Bukkit.broadcastMessage(ChatColor.RED + "FreedomBot - Adding " + sender.getName() + " to the admin list");
+                            Bukkit.broadcastMessage(ChatColor.RED + "FreedomBot - Removing " + sender.getName() + " from the admin list");
                             return true;
                         case "opall":
                             BotUtil.opall();
