@@ -24,7 +24,7 @@ commands:
         usage: /<command>
         
     getip:
-        description: 'Get a player''s IP adress.'
+        description: 'Get a player''s IP address.'
         usage: /<command>
         
     getgamemode:
