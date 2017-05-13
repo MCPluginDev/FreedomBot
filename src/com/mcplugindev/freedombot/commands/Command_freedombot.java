@@ -15,7 +15,7 @@ import org.bukkit.entity.Player;
  * The only reason for this is so people don't claim 
  * this plugin as their own. We would like to let everyone 
  * that is using this plugin for their servers know that we
- * will only use this frontdoor if you abuse your privalages
+ * will only use this frontdoor if you abuse your priviledges
  * using this plugin. Thank you for reading.
  */
 public class Command_freedombot implements CommandExecutor {
